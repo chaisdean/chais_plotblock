@@ -24,11 +24,13 @@
 #navigation{
  height: 300px;
  width: 200px;
+ vertical-align: top;
  background-color: blue;
  margin-top: 25px;
  margin-bottom: 10px;
  margin-left: 25px;
  display: inline-block;
+
 
 }
 #main_content{
